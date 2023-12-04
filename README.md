@@ -1,10 +1,5 @@
-<html>
- <head>
-  <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> <dotlottie-player src="https://lottie.host/2c3fe511-4f91-401b-a55e-a971c646653d/siPurOntqt.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
- </head>
- <body>
-  </body>
- </html>
+![Animation - 1701707085574 (1)](https://github.com/nehasingh2868/nehasingh2868/assets/146656729/944be63e-4ea9-4392-92c1-14931e113e84)
+
 - 👋 Hi, I’m @nehasingh2868
 - :speech_balloon: I’m interested in Web development :woman_technologist: and Data analysis
 - 🌱 I’m currently learning ReactJs :atom_symbol: library and Data visualization using Tableu.
