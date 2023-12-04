@@ -1,4 +1,6 @@
-![Animation - 1701707085574 (1)](https://github.com/nehasingh2868/nehasingh2868/assets/146656729/944be63e-4ea9-4392-92c1-14931e113e84)
+![Animation - 1701707085574](https://github.com/nehasingh2868/nehasingh2868/assets/146656729/a2952436-0707-4d9b-a82c-2198be46db17)
+
+![Animation - 1701708204177](https://github.com/nehasingh2868/nehasingh2868/assets/146656729/f8d450e4-9239-4d13-9ff2-16f5a04236eb)
 
 - 👋 Hi, I’m @nehasingh2868
 - :speech_balloon: I’m interested in Web development :woman_technologist: and Data analysis
