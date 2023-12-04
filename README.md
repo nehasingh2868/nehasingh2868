@@ -1,11 +1,10 @@
 ![Animation - 1701708204177](https://github.com/nehasingh2868/nehasingh2868/assets/146656729/f8d450e4-9239-4d13-9ff2-16f5a04236eb)
-
-- 👋 Hi, I’m @nehasingh2868
+- 👋I’m @nehasingh2868
 - :speech_balloon: I’m interested in Web development :woman_technologist: and Data analysis
 - 🌱 I’m currently learning ReactJs :atom_symbol: library and Data visualization using Tableu.
 - Check-out:
  * :globe_with_meridians: [LinkedIn](https://www.linkedin.com/)
- - :link: [Portfolio]()
+ - :link: [Portfolio](https://nehasingh2868.github.io/Personal-portfolio-website/index.html)
 
 ![Animation - 1701707085574](https://github.com/nehasingh2868/nehasingh2868/assets/146656729/a2952436-0707-4d9b-a82c-2198be46db17)
 <!---
