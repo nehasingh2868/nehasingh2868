@@ -3,9 +3,6 @@
   <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> <dotlottie-player src="https://lottie.host/2c3fe511-4f91-401b-a55e-a971c646653d/siPurOntqt.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
  </head>
  <body>
-<div>
-<iframe src="https://lottie.host/embed/2c3fe511-4f91-401b-a55e-a971c646653d/siPurOntqt.json"></iframe>
-</div>
   </body>
  </html>
 - 👋 Hi, I’m @nehasingh2868
